@@ -6,7 +6,7 @@ public class EjercicioTema3 {
 
     
     public static void main(String[] args) {
-    
+
     //Primera parte:
         suma(1, 2, 3);//llamamos a la funcion y damos valores
 
