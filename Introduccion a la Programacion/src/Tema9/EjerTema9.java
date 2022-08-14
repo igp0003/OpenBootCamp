@@ -10,7 +10,7 @@ public class EjerTema9 {
         Cliente cliente = new Cliente();
         Trabajador trabajador = new Trabajador();
 
-        cliente.nombre = "Nacho Garcia";
+        cliente.nombre = "Nacho García";
         cliente.edad = 29;
         cliente.numtelefono = 952658512;
         cliente.credito = 1000;
